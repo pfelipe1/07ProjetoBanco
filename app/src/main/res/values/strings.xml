@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ProjetoBanco</string>
+    <string name="tipoConta">Tipo da conta:</string>
+    <string name="contaPoupanca">Poupança</string>
+    <string name="contaEspecial">Especial</string>
+    <string name="mostrar">Mostrar Dados</string>
+    <string name="depositar">Depositar</string>
+    <string name="sacar">Sacar</string>
+    <string name="nome">Nome</string>
+    <string name="numeroConta">Numero da Conta</string>
+    <string name="incluirConta">Incluir Conta</string>
+    <string name="saldo">Saldo</string>
+    <string name="MostrarSaldoRendimento">Atualizar saldo (poupança)</string>
+    <string name="erroSelectCOnta">Nenhum tipo de conta selecionado</string>
+    <string name="contaCriada">Conta criada</string>
+    <string name="valor">Valor</string>
+    <string name="pesquisarConta">Procurar Num_Conta</string>
+    <string name="atualizarValor">Saldo atualizado</string>
+    <string name="erro">Erro </string>
+</resources>

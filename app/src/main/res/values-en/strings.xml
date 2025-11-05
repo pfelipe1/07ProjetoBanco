@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjectBank</string>
+    <string name="tipoConta">Account type:</string>
+    <string name="contaPoupanca">Savings</string>
+    <string name="contaEspecial">Special</string>
+    <string name="mostrar">Show data</string>
+    <string name="depositar">Deposit</string>
+    <string name="sacar">Withdraw</string>
+    <string name="nome">Name</string>
+    <string name="numeroConta">Account Number</string>
+    <string name="incluirConta">Add Account</string>
+    <string name="saldo">Balance</string>
+    <string name="MostrarSaldoRendimento">Update balance (savings)</string>
+    <string name="erroSelectCOnta">No type of account selected</string>
+    <string name="contaCriada">Account created</string>
+    <string name="valor">Value</string>
+    <string name="pesquisarConta">Search Account_Number</string>
+    <string name="atualizarValor">Updated balance</string>
+    <string name="erro">Error</string>
+</resources>
