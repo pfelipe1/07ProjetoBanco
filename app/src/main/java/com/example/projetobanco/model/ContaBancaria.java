@@ -1,3 +1,7 @@
+    /*
+     *@author: Felipe Pires de Araujo
+     */
+
 package com.example.projetobanco.model;
 
 public class ContaBancaria {
